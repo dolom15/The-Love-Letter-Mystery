@@ -1,1 +1,1 @@
-# The-Love-Letter-Mystery
+# The-Love-Letter-Mystery This code calculates the minimum number of operations to convert a string into a palindrome by reducing letters, summing the absolute differences between mirrored characters. It iterates only through the first half of the string and returns the total number of required reductions.
